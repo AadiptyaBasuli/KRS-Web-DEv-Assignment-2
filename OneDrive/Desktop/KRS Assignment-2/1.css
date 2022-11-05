@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+#pehla {
+    color: white;
+    font-size: 30px;
+}
+
+btn {
+    color: white;
+    font-size: 22px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#dusra {
+    color: white;
+}
+
+#two {
+
+    color: blue;
+    font: white;
+    font: 33px;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 4px;
+    border-color: Red;
+}
